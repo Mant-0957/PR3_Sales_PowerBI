@@ -1,5 +1,6 @@
 #  Sales Analysis Dashboard (Power BI)
-<img width="865" height="334" alt="Screenshot 2026-04-14 001838" src="https://github.com/user-attachments/assets/0028566a-0350-4258-af59-5b7e2d5b633a" />
+<img width="916" height="347" alt="Screenshot 2026-04-14 004337" src="https://github.com/user-attachments/assets/1ab9fe9b-a368-4b3b-9d8d-1471dab50dae" />
+
 
 ##  Project Link
 [View Power BI File](https://github.com/Mant-0957/PR3_Sales_PowerBI/blob/main/pr3.pbix)
